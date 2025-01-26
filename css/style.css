@@ -1,0 +1,150 @@
+body {
+  background-color: #fff;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+  border-style: none;
+  padding: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+/* <!-- --------HEADER--------- --> */
+
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-navigation-list {
+}
+.header-navigation-item {
+}
+.header-navigation-link {
+}
+.header-adress {
+}
+.header-adress-list {
+}
+.header-adress-item {
+}
+.header-adress-link {
+}
+
+/* <!-- --------------------- --> */
+/* <!-- --------HERO--------- --> */
+
+.section-hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+
+/* <!-- ------------------------- --> */
+/* <!-- --------FEATURES--------- --> */
+
+.section-features {
+}
+.visually-hidden {
+}
+.features-list {
+}
+.features-item {
+}
+.features-subtitle {
+}
+.features-text {
+}
+
+/* <!-- --------------------- --> */
+/* <!-- --------TEAM--------- --> */
+
+.section-team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+}
+.team-text {
+}
+
+/* <!-- -------------------------- --> */
+/* <!-- --------PORTFOLIO--------- --> */
+
+.section-portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-subtitle {
+}
+.portfolio-text {
+}
+
+/* <!-- ----------------------- --> */
+/* <!-- --------FOOTER--------- --> */
+
+.footer {
+}
+.section-footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
